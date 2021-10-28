@@ -1,0 +1,11 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "030102.js",
+  "scripts": {
+    "start": "node 030102.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
